@@ -1,0 +1,13 @@
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\bin\Debug\Database.mdf
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\bin\Debug\Database_log.ldf
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\bin\Debug\UI Database.exe.config
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\bin\Debug\UI Database.exe
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\bin\Debug\UI Database.pdb
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI Database.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI_Database.MainForm.resources
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI_Database.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI Database.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI Database.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI Database.exe
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI Database.pdb
+C:\Users\Jack\Desktop\Технология разработки\12. UI Database\UI Database\obj\Debug\UI_Database.Forms.FilterWindow.resources
